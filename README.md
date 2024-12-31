@@ -32,7 +32,7 @@ TVBS NEWS=8-jkb6vb7Yo
 
 ### 如何修改/更新 youtube 連結
 打開 INI 檔  
-![how_to_edit_ini_2.jpg](how_to_edit_ini_2.jpg)  
+![how_to_edit_ini_1.jpg](how_to_edit_ini_1.jpg)  
 
 找到 YOUTUBE 連結, 抄寫到 INI 內, 存檔
 ![how_to_edit_ini_2.jpg](how_to_edit_ini_2.jpg)  
