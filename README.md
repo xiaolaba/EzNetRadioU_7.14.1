@@ -1,5 +1,5 @@
 # EzNetRadioU_7.14.1
-no code, modified INI, match Youtube link for TV live stream only. cahce here easy friends who was not computer geeks.
+no code, modified INI, match Youtube broken links for TV live stream only. cahce here easy friends who was not computer geeks.
 # origination & the original author, not me!
 http://cym6112.blogspot.com/search/label/%E7%B6%B2%E8%B7%AF%E6%94%B6%E9%9F%B3%E6%A9%9F
 
