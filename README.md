@@ -23,9 +23,19 @@ CTI中天新聞=vr3XyVCR4T0
 TVBS NEWS=8-jkb6vb7Yo
 ```
 
+### 如何下載/使用  
+下載即可食用, 已經包含 ffmpeg-dlls-6.1.1-win32-lgpl
+![how_to_download.jpg](how_to_download.jpg)  
+
+運行收聽  
+![how_to_run.jpg](how_to_run.jpg)  
+
 ### 如何修改/更新 youtube 連結
 打開 INI 檔  
 ![how_to_edit_ini_2.jpg](how_to_edit_ini_2.jpg)  
 
 找到 YOUTUBE 連結, 抄寫到 INI 內, 存檔
 ![how_to_edit_ini_2.jpg](how_to_edit_ini_2.jpg)  
+
+找到 YOUTUBE 連結, 抄寫到 INI 內, 存檔
+
